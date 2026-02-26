@@ -62,35 +62,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-| | Project | Description |
-|---|---------|-------------|
-| 🤖 | [**AI-digest**](https://github.com/Popovonline/AI-digest) | Daily AI Digest — the most relevant updates across research, models, tools, product & industry news |
-| 👻 | [**Phantom Game**](https://github.com/Popovonline/stanford_project_phantom_game) | Endless runner game built during Stanford TECH 42 "Vibe Coding" program |
-| 📊 | [**Spreadsheet App**](https://github.com/Popovonline/stanford_project_spreadsheet) | Full-featured spreadsheet built with AI at Stanford's "Vibe Coding" course |
-| 🏦 | [**Data Science**](https://github.com/Popovonline/Python-And-Data-Analysis-Final-Project) | Sberbank Data Science project — Python & data analysis |
-| 🔬 | [**Data Scientist**](https://github.com/Popovonline/Data-Scientist) | Coursework in machine learning, statistics & data science |
-| 🛢️ | [**Data Engineer**](https://github.com/Popovonline/Data-Engineer) | Data engineering pipelines & SQL |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Popovonline&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Popovonline&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popovonline&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
