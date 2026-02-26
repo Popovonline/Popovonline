@@ -39,8 +39,13 @@
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-0A6DC2?style=flat-square&logo=deepseek&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & Tools**
 
@@ -48,6 +53,12 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**IDE & Dev Tools**
+
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -61,16 +72,6 @@
 | 🏦 | [**Data Science**](https://github.com/Popovonline/Python-And-Data-Analysis-Final-Project) | Sberbank Data Science project — Python & data analysis |
 | 🔬 | [**Data Scientist**](https://github.com/Popovonline/Data-Scientist) | Coursework in machine learning, statistics & data science |
 | 🛢️ | [**Data Engineer**](https://github.com/Popovonline/Data-Engineer) | Data engineering pipelines & SQL |
-
----
-
-## 💡 What I'm Up To
-
-- 🎓 Completed Stanford's **TECH 42: Vibe Coding** — building software in conversation with AI
-- 🤖 Curating a daily **AI Digest** for product leaders, engineers & decision-makers
-- 🎤 Speaking at **tech conferences** on product strategy, AI adoption & growth
-- 🚀 Building **SaaS products** that combine strong UX with AI capabilities
-- 📈 Exploring the intersection of **AI/ML** and **product-led growth**
 
 ---
 
