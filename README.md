@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hi%20there%20👋%20I'm%20Ilia&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=COO%20·%20Fintech%20%26%20E-Commerce%20·%20AI%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hi%20there%20👋%20I'm%20Ilia&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CPO%20·%20Fintech%20%26%20E-Commerce%20·%20AI%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-### 🚀 Chief Operational Officer · Fintech & E-Commerce · Stanford TECH 42
+### 🚀 Chief Product Officer · Fintech & E-Commerce · Stanford TECH 42
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilpopov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CPOonline)
@@ -12,7 +12,7 @@
 
 ---
 
-> *COO with 15 years scaling fintech and e-commerce products across B2C, B2B, and B2G markets.  
+> *CPO with 15 years scaling fintech and e-commerce products across B2C, B2B, and B2G markets.  
 > Specialising in SaaS, mobile (iOS/Android) & web development, AI/ML applications, and strong UX/UI.  
 > Consistently delivered **3–5× revenue growth**, **25–35% churn reduction**, and **40–50% engagement lifts** across different companies and industries.*
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 2📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
