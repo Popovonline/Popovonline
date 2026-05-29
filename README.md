@@ -5,6 +5,7 @@
 ### 🚀 Chief Product Officer · Fintech & E-Commerce
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilpopov/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PopovOnline)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cpo.email)
 
 </div>
@@ -61,6 +62,54 @@
 
 ---
 
+## 📝 Publications
+
+<div align="center">
+<i>Long-form writing on AI agents, agentic engineering &amp; product economics.</i>
+<br/><br/>
+<a href="https://medium.com/@PopovOnline">
+<img src="https://img.shields.io/badge/Read%20on%20Medium-%40PopovOnline-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+</div>
+
+### ✨ Featured
+
+#### 📊 [The Only AI-Agent Metric That Matters: Cost per Retained Accepted Unit](https://medium.com/@PopovOnline/the-only-ai-agent-metric-that-matters-cost-per-retained-accepted-unit-871b4187d63a)
+> Token cost lies. **CRAU** ties agent spend to the work that actually shipped and survived review — the real unit economics of autonomy.
+>
+> `⏱ 11 min` · `🗓 2026-05-27` · `unit-economics` · `ai-agents`
+
+#### 🔄 [How Anthropic Managed Agent Helped Me Build a Self-Improving DevOps System](https://medium.com/@PopovOnline/how-anthropic-managed-agent-helped-me-build-a-self-improving-devops-system-2e87e75cede0)
+> A managed agent wired into hooks, monitors and backups — how my VPS turned into a DevOps system that audits and fixes itself.
+>
+> `⏱ 5 min` · `🗓 2026-04-24` · `devops` · `ai-agent`
+
+### 📚 All Articles
+
+**🤖 AI Agents &amp; Orchestration**
+- [The Production Traps Behind Long-Running AI Agents](https://medium.com/@PopovOnline/the-production-traps-behind-long-running-ai-agents-2b91150f92f1) · `10 min`
+- [How We Turned Hermes Agent Into a Goal-Driven Operations Orchestrator](https://medium.com/@PopovOnline/how-we-turned-hermes-agent-into-a-goal-driven-operations-orchestrator-11c29da18f5f) · `15 min`
+- [The Real Managed Agents Update: Not More Autonomy, but Better Control Loops](https://medium.com/@PopovOnline/the-real-managed-agents-update-not-more-autonomy-but-better-control-loops-a6a534df7e3b) · `8 min`
+
+**🛠️ Claude Code &amp; Dev Workflow**
+- [I Cut My Claude Code Context Overhead by 31% — Plugins Were Not the Problem](https://medium.com/@PopovOnline/i-cut-my-claude-code-context-overhead-by-31-plugins-were-not-the-problem-6f172c0f03af) · `14 min`
+- [From CLAUDE.md to Hooks: How to Make AI Agents Actually Follow Rules](https://medium.com/@PopovOnline/from-claude-md-to-hooks-how-to-make-ai-agents-actually-follow-rules-ae33ff76e768) · `4 min`
+
+**📦 Product &amp; Strategy**
+- [Code to Success: Enhancing Product Development with Strategic KPIs](https://medium.com/@PopovOnline/code-to-success-ai-ml-solution-d4e2e26513d4) · `6 min`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Popovonline&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="170" alt="GitHub stats"/>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Popovonline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&title_color=58a6ff" width="100%" alt="Contribution graph"/>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -68,6 +117,7 @@
 *I'm always open to interesting conversations about product, AI, and building great software.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilpopov/)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PopovOnline)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cpo.email)
 
 </div>
