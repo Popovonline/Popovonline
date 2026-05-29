@@ -58,7 +58,9 @@
 
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/-Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/-Antigravity%20CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
