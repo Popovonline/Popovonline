@@ -70,23 +70,23 @@
 <i>Publications on AI agents, LLMs, agentic engineering &amp; AI unit economics.</i>
 <br/><br/>
 <a href="https://medium.com/@PopovOnline">
-<img src="https://img.shields.io/badge/Read%20on%20Medium-%40PopovOnline-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium"/>
 </a>
 </div>
 
 **🤖 AI Agents &amp; Orchestration**
-- [The Only AI-Agent Metric That Matters: Cost per Retained Accepted Unit](https://medium.com/@PopovOnline/the-only-ai-agent-metric-that-matters-cost-per-retained-accepted-unit-871b4187d63a) · `2026-05-27` · `11 min`
-- [The Production Traps Behind Long-Running AI Agents](https://medium.com/@PopovOnline/the-production-traps-behind-long-running-ai-agents-2b91150f92f1) · `2026-05-20` · `10 min`
-- [How We Turned Hermes Agent Into a Goal-Driven Operations Orchestrator](https://medium.com/@PopovOnline/how-we-turned-hermes-agent-into-a-goal-driven-operations-orchestrator-11c29da18f5f) · `2026-05-20` · `15 min`
-- [The Real Managed Agents Update: Not More Autonomy, but Better Control Loops](https://medium.com/@PopovOnline/the-real-managed-agents-update-not-more-autonomy-but-better-control-loops-a6a534df7e3b) · `2026-05-14` · `8 min`
+- [The Only AI-Agent Metric That Matters: Cost per Retained Accepted Unit](https://medium.com/@PopovOnline/the-only-ai-agent-metric-that-matters-cost-per-retained-accepted-unit-871b4187d63a) ![2026-05-27](https://img.shields.io/badge/2026--05--27-1f6feb?style=flat-square) ![11 min](https://img.shields.io/badge/11%20min-6e7681?style=flat-square)
+- [The Production Traps Behind Long-Running AI Agents](https://medium.com/@PopovOnline/the-production-traps-behind-long-running-ai-agents-2b91150f92f1) ![2026-05-20](https://img.shields.io/badge/2026--05--20-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
+- [How We Turned Hermes Agent Into a Goal-Driven Operations Orchestrator](https://medium.com/@PopovOnline/how-we-turned-hermes-agent-into-a-goal-driven-operations-orchestrator-11c29da18f5f) ![2026-05-20](https://img.shields.io/badge/2026--05--20-1f6feb?style=flat-square) ![15 min](https://img.shields.io/badge/15%20min-6e7681?style=flat-square)
+- [The Real Managed Agents Update: Not More Autonomy, but Better Control Loops](https://medium.com/@PopovOnline/the-real-managed-agents-update-not-more-autonomy-but-better-control-loops-a6a534df7e3b) ![2026-05-14](https://img.shields.io/badge/2026--05--14-1f6feb?style=flat-square) ![8 min](https://img.shields.io/badge/8%20min-6e7681?style=flat-square)
 
 **🛠️ Claude Code &amp; Dev Workflow**
-- [I Cut My Claude Code Context Overhead by 31% — Plugins Were Not the Problem](https://medium.com/@PopovOnline/i-cut-my-claude-code-context-overhead-by-31-plugins-were-not-the-problem-6f172c0f03af) · `2026-05-28` · `14 min`
-- [From CLAUDE.md to Hooks: How to Make AI Agents Actually Follow Rules](https://medium.com/@PopovOnline/from-claude-md-to-hooks-how-to-make-ai-agents-actually-follow-rules-ae33ff76e768) · `2026-04-28` · `4 min`
-- [How Anthropic Managed Agent Helped Me Build a Self-Improving DevOps System](https://medium.com/@PopovOnline/how-anthropic-managed-agent-helped-me-build-a-self-improving-devops-system-2e87e75cede0) · `2026-04-24` · `5 min`
+- [I Cut My Claude Code Context Overhead by 31% — Plugins Were Not the Problem](https://medium.com/@PopovOnline/i-cut-my-claude-code-context-overhead-by-31-plugins-were-not-the-problem-6f172c0f03af) ![2026-05-28](https://img.shields.io/badge/2026--05--28-1f6feb?style=flat-square) ![14 min](https://img.shields.io/badge/14%20min-6e7681?style=flat-square)
+- [From CLAUDE.md to Hooks: How to Make AI Agents Actually Follow Rules](https://medium.com/@PopovOnline/from-claude-md-to-hooks-how-to-make-ai-agents-actually-follow-rules-ae33ff76e768) ![2026-04-28](https://img.shields.io/badge/2026--04--28-1f6feb?style=flat-square) ![4 min](https://img.shields.io/badge/4%20min-6e7681?style=flat-square)
+- [How Anthropic Managed Agent Helped Me Build a Self-Improving DevOps System](https://medium.com/@PopovOnline/how-anthropic-managed-agent-helped-me-build-a-self-improving-devops-system-2e87e75cede0) ![2026-04-24](https://img.shields.io/badge/2026--04--24-1f6feb?style=flat-square) ![5 min](https://img.shields.io/badge/5%20min-6e7681?style=flat-square)
 
 **📦 Product &amp; Strategy**
-- [Code to Success: Enhancing Product Development with Strategic KPIs](https://medium.com/@PopovOnline/code-to-success-ai-ml-solution-d4e2e26513d4) · `2024-01-10` · `6 min`
+- [Code to Success: Enhancing Product Development with Strategic KPIs](https://medium.com/@PopovOnline/code-to-success-ai-ml-solution-d4e2e26513d4) ![2024-01-10](https://img.shields.io/badge/2024--01--10-1f6feb?style=flat-square) ![6 min](https://img.shields.io/badge/6%20min-6e7681?style=flat-square)
 
 ---
 
