@@ -67,7 +67,7 @@
 ## 📝 Publications
 
 <div align="center">
-<i>Long-form writing on AI agents, agentic engineering &amp; product economics.</i>
+<i>Publications on AI agents, LLMs, agentic engineering &amp; AI unit economics.</i>
 <br/><br/>
 <a href="https://medium.com/@PopovOnline">
 <img src="https://img.shields.io/badge/Read%20on%20Medium-%40PopovOnline-000000?style=for-the-badge&logo=medium&logoColor=white"/>
