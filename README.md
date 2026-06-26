@@ -75,6 +75,7 @@
 </div>
 
 **🤖 AI Agents &amp; Orchestration**
+- [I Gave My VPS an MCP Address So My New AI Agents Stop Starting From Zero](https://medium.com/@PopovOnline/i-gave-my-vps-an-mcp-address-so-my-new-ai-agents-stop-starting-from-zero-210a80cffa77) ![2026-06-25](https://img.shields.io/badge/2026--06--25-1f6feb?style=flat-square) ![5 min](https://img.shields.io/badge/5%20min-6e7681?style=flat-square)
 - [The Production Traps Behind Long-Running AI Agents](https://medium.com/@PopovOnline/the-production-traps-behind-long-running-ai-agents-2b91150f92f1) ![2026-05-20](https://img.shields.io/badge/2026--05--20-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
 - [How We Turned Hermes Agent Into a Goal-Driven Operations Orchestrator](https://medium.com/@PopovOnline/how-we-turned-hermes-agent-into-a-goal-driven-operations-orchestrator-11c29da18f5f) ![2026-05-20](https://img.shields.io/badge/2026--05--20-1f6feb?style=flat-square) ![15 min](https://img.shields.io/badge/15%20min-6e7681?style=flat-square)
 - [The Real Managed Agents Update: Not More Autonomy, but Better Control Loops](https://medium.com/@PopovOnline/the-real-managed-agents-update-not-more-autonomy-but-better-control-loops-a6a534df7e3b) ![2026-05-14](https://img.shields.io/badge/2026--05--14-1f6feb?style=flat-square) ![8 min](https://img.shields.io/badge/8%20min-6e7681?style=flat-square)
