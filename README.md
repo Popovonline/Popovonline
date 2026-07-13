@@ -75,6 +75,7 @@
 </div>
 
 **🤖 AI Agents &amp; Orchestration**
+- [The Model Is 20% of the Agent. The Harness Is the Other 80%.](https://medium.com/@PopovOnline/the-model-is-20-of-the-agent-the-harness-is-the-other-80-b2e6c39337b3) ![2026-07-13](https://img.shields.io/badge/2026--07--13-1f6feb?style=flat-square) ![9 min](https://img.shields.io/badge/9%20min-6e7681?style=flat-square)
 - [Covered, Proxy, Gap: Three Words That Replaced “Does the Skill Work?”](https://medium.com/@PopovOnline/covered-proxy-gap-three-words-that-replaced-does-the-skill-work-571c4a2370e9) ![2026-07-10](https://img.shields.io/badge/2026--07--10-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
 - [5 Ways Your Agent Lies to Your Demo Test and How I Catch Them in Production](https://medium.com/@PopovOnline/5-ways-your-agent-lies-to-your-demo-test-and-how-i-catch-them-in-production-f25d18776363) ![2026-07-09](https://img.shields.io/badge/2026--07--09-1f6feb?style=flat-square) ![8 min](https://img.shields.io/badge/8%20min-6e7681?style=flat-square)
 - [Capability Evals for Agent Skills: From Installed to Proven](https://medium.com/@PopovOnline/capability-evals-for-agent-skills-from-installed-to-proven-a21122019606) ![2026-07-08](https://img.shields.io/badge/2026--07--08-1f6feb?style=flat-square) ![14 min](https://img.shields.io/badge/14%20min-6e7681?style=flat-square)
