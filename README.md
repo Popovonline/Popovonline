@@ -75,6 +75,7 @@
 </div>
 
 **🤖 AI Agents &amp; Orchestration**
+- [How to Give Your AI Agent 500+ Skills Without Blowing Up Its Context Window](https://medium.com/@PopovOnline/how-to-give-your-ai-agent-500-skills-without-blowing-up-its-context-window-309ecbba0d84) ![2026-07-17](https://img.shields.io/badge/2026--07--17-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
 - [The Model Is 20% of the Agent. The Harness Is the Other 80%.](https://medium.com/@PopovOnline/the-model-is-20-of-the-agent-the-harness-is-the-other-80-b2e6c39337b3) ![2026-07-13](https://img.shields.io/badge/2026--07--13-1f6feb?style=flat-square) ![9 min](https://img.shields.io/badge/9%20min-6e7681?style=flat-square)
 - [Covered, Proxy, Gap: Three Words That Replaced “Does the Skill Work?”](https://medium.com/@PopovOnline/covered-proxy-gap-three-words-that-replaced-does-the-skill-work-571c4a2370e9) ![2026-07-10](https://img.shields.io/badge/2026--07--10-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
 - [5 Ways Your Agent Lies to Your Demo Test and How I Catch Them in Production](https://medium.com/@PopovOnline/5-ways-your-agent-lies-to-your-demo-test-and-how-i-catch-them-in-production-f25d18776363) ![2026-07-09](https://img.shields.io/badge/2026--07--09-1f6feb?style=flat-square) ![8 min](https://img.shields.io/badge/8%20min-6e7681?style=flat-square)
