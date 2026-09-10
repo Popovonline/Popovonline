@@ -75,6 +75,7 @@
 </div>
 
 **🤖 AI Agents &amp; Orchestration**
+- [Agents Should Not Own Project Memory](https://medium.com/@PopovOnline/agents-should-not-own-project-memory-c558e99dacbc) ![2026-09-10](https://img.shields.io/badge/2026--09--10-1f6feb?style=flat-square) ![12 min](https://img.shields.io/badge/12%20min-6e7681?style=flat-square)
 - [How to Build the Two Control Planes Your AI Agent Stack Needs](https://medium.com/@PopovOnline/how-to-build-the-two-control-planes-your-ai-agent-stack-needs-8fda4ae73512) ![2026-08-13](https://img.shields.io/badge/2026--08--13-1f6feb?style=flat-square) ![15 min](https://img.shields.io/badge/15%20min-6e7681?style=flat-square)
 - [The Evals That Actually Caught Bugs in Production (and the Ones That Didn’t)](https://medium.com/@PopovOnline/the-evals-that-actually-caught-bugs-in-production-and-the-ones-that-didnt-acf518949503) ![2026-07-27](https://img.shields.io/badge/2026--07--27-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
 - [How to Give Your AI Agent 500+ Skills Without Blowing Up Its Context Window](https://medium.com/@PopovOnline/how-to-give-your-ai-agent-500-skills-without-blowing-up-its-context-window-309ecbba0d84) ![2026-07-17](https://img.shields.io/badge/2026--07--17-1f6feb?style=flat-square) ![10 min](https://img.shields.io/badge/10%20min-6e7681?style=flat-square)
